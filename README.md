@@ -46,4 +46,4 @@ A beautiful, feature-rich bash script for automated LXC and LXD installation on 
 
 ### Installation
 
-bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/vortex-installer/main/vortex-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/notyouradiraj/vortex-installer/main/vortex-installer.sh)
